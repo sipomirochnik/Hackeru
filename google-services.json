@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436238438478",
+    "firebase_url": "https://security-51fa7.firebaseio.com",
+    "project_id": "security-51fa7",
+    "storage_bucket": "security-51fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436238438478:android:d9410199d484012728b31f",
+        "android_client_info": {
+          "package_name": "hysb.com.example.serjofactory.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436238438478-0jgnbhtdegk4jl0kv914kpimb6pdukpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hysb.com.example.serjofactory.security",
+            "certificate_hash": "5322c4f72249b233366fec986322545203c8cd35"
+          }
+        },
+        {
+          "client_id": "436238438478-3js28dflrljvsu5ltel5uqi0bagn6bpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWwb5Ue5PZ_40yXQDDtR4AbmylJE7Wmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436238438478-3js28dflrljvsu5ltel5uqi0bagn6bpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

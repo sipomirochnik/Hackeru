@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name"> שב. ביטחון</string>
+    <string name="title_weekOrder">סידור עבודה</string>
+    <string name="title_shiftOrders">חילוף משמרות</string>
+    <string name="title_contanctList">אנשים קשר</string>
+    <string name="title_activity_shift_of_the_week">ShiftOfTheWeek</string>
+    <string name="title_activity_shift_changes">shiftChanges</string>
+    <string name="title_activity_contact_list">ContactList</string>
+    <string name="poster">TODO</string>
+    <string name="tvName">מספר עובד</string>
+    <string name="phone">פלאפון</string>
+    <string name="name">שם עובד</string>
+    <string name="the_message">The Message</string>
+    <string name="title_top">קבוצות מאבטחים</string>
+
+
+</resources>
